@@ -28,3 +28,12 @@ All tests were performed using the release build variant, legacy architecture an
 ## Conclusion
 
 While actual application boot time may remain consistent or even improve, the measured boot times reflect the extended splash screen display duration, potentially indicating misleading performance degradation.
+
+
+<details>
+<summary>Articles on similar issues for native apps</summary>
+
+* https://engineering.backmarket.com/how-we-enhanced-our-android-apps-startup-time-by-over-50-0fb220d27b14
+* https://proandroiddev.com/fixing-derailed-app-cold-start-metrics-5e05c1a9ab4a
+
+</details>
