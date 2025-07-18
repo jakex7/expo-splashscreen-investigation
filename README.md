@@ -27,4 +27,4 @@ All tests were performed using the release build variant, legacy architecture an
 
 ## Conclusion
 
-While actual application boot time may remain consistent or even improve, the measured boot times reflect the extended splash screen display duration, potentially creating misleading performance indicators.
+While actual application boot time may remain consistent or even improve, the measured boot times reflect the extended splash screen display duration, potentially indicating misleading performance degradation.
